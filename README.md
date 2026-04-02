@@ -83,9 +83,11 @@ pizza-sales-powerbi-dashboard/    # Repository Root
 ├── dataset/                      # Raw data used for analysis
 │   └── pizza_sales.csv           
 │
-├── docs/                         # Project requirements details
+├── docs/                         # Project requirements details & dashboard previews
 │   ├── charts_requirements1.png  
 │   ├── charts_requirements2.png  
+│   ├── dashboard_best&worst_sellers.png
+│   ├── dashboard_home.png
 │   └── kpis_requirements.png     
 │
 ├── sql-scripts/                  # T-SQL scripts for KPI calculations and data validation
