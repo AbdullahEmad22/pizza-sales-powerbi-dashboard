@@ -58,7 +58,7 @@ The goal was to calculate the following essential business indicators:
 
 ### 2. Chart & Visualization Requirements
 Specific visualizations were required to identify trends and patterns:
-- **Daily & Monthly Trends**: Identifying peak hours and periods of high order activity.
+- **Daily & Monthly Trends**: Identifying peak periods of high order activity.
 - **Sales Distribution**: Percentage of sales segmented by pizza category and size.
 - **Inventory Performance**: Comparison of total pizzas sold by category.
 - **Best & Worst Sellers**: Top 5 and Bottom 5 pizzas based on revenue, quantity, and total orders.
