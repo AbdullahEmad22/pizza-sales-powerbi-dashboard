@@ -10,6 +10,7 @@ This project demonstrates an end-to-end analytical solution, transforming raw sa
 The dashboard provides a comprehensive analysis of **sales performance**, **customer behavior**, and **product trends** through two main interactive pages:
 
 ![Dashboard Home Page](docs/dashboard_home.png)
+
 ![Dashboard Best & Worst Sellers Page](docs/dashboard_best&worst_sellers.png)
 
 ### 1. Sales Overview & KPIs
