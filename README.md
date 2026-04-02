@@ -1,6 +1,7 @@
 # 🍕 Pizza Sales Performance Analysis | SQL & Power BI Dashboard 
 
 Welcome to the **Pizza Sales Performance Analysis** repository! 🚀
+
 This project demonstrates an end-to-end analytical solution, transforming raw sales data into actionable business insights. From writing **SQL queries** to extract KPIs to designing a professional **Power BI Dashboard**, this project highlights industry-standard practices in **Data Analysis and Data Visualization**.
 
 ---
